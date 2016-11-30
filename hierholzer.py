@@ -53,3 +53,6 @@ def hierholzer(vertices, edges):
             notvisited.update(sub)
     return cycle
 
+# V = [1,2,3,4,5]
+# E = [(2,4),(4,2),(4,0),(0,4),(0,3),(3,0),(0,3),(3,0),(1,0),(0,1)]
+# print hierholzer(V,E)
