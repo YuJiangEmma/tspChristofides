@@ -4,10 +4,10 @@ Authors: Cas Donoghue, Patrick Kwong, and Nicholas Vrontakis
 
 ## Running the TSP Program
 1. Put the the following files in the same directory as your problem instance text file(s). See section below for problem instance text file format.
-..* helperFunctionsTSP.py
-..* hierholzer.py
-..* newKruskal.py
-..* TSPcomp.py
+⋅⋅* helperFunctionsTSP.py
+⋅⋅* hierholzer.py
+⋅⋅* newKruskal.py
+⋅⋅* TSPcomp.py
 
 2. Run the program file, TSPcomp.py on the command line with your problem instance file.
 
