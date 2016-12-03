@@ -13,6 +13,7 @@ Authors: Cas Donoghue, Patrick Kwong, and Nicholas Vrontakis
 
 ## Input File Format
 ###The input file has to be in the following format. Each line defines a city and each line has three numbers separated by white space.
+
 1. The first number is the city identifier
 2. The second number is the city’s x-coordinate
 3. The third number is the city’s y-coordinate.
