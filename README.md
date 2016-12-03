@@ -1,4 +1,4 @@
-# CS325-400 Group 31 Project 4 README
+# CS325-400 Group 31 Project 4 Readme
 ## Traveling Salesman Problem
 Authors: Cas Donoghue, Patrick Kwong, and Nicholas Vrontakis
 
