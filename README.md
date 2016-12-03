@@ -3,8 +3,8 @@
 Authors: Cas Donoghue, Patrick Kwong, and Nicholas Vrontakis
 
 ## Running the Program
-1. Put the tsp.py program file in the same directory as your problem instance text file.
-2. Run tsp.py on the command line with your problem instance file from the command line.
+1. Put the tsp.py program file in the same directory as your problem instance text file(s).
+2. Run tsp.py on the command line with your problem instance file.
 
    ```
    python tsp.py tsp_example_1.txt
