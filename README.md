@@ -9,7 +9,7 @@ Authors: Cas Donoghue, Patrick Kwong, and Nicholas Vrontakis
  * newKruskal.py
  * TSPcomp.py
 
-2. Run the program file, TSPcomp.py on the command line with your problem instance file.
+2. Run the program file, TSPcomp.py on the command line with your problem instance file like this:
 
    ```
    python TSPcomp.py tsp_example_1.txt
